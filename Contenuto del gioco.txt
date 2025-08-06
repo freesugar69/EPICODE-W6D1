@@ -1,0 +1,27 @@
+📋 Caratteristiche MiniGame esercizio W6D1:
+
+Struttura del programma:
+✅ 3 funzioni principali: main(), menu_scelta(), giocare()
+✅ Gestione menu iniziale: scelta tra nuova partita o uscita
+✅ Input nome utente per personalizzare l'esperienza
+
+Funzionalità del gioco:
+✅ 5 domande a risposta multipla con 3 opzioni ciascuna
+✅ Punteggio dinamico che si aggiorna con risposte corrette
+✅ Feedback immediato per ogni risposta
+✅ Risultato finale con messaggio personalizzato
+
+
+Domande incluse:
+Capitale d'Italia
+Numero pianeti sistema solare
+Autore Divina Commedia
+Fiume più lungo del mondo
+Inizio Seconda Guerra Mondiale
+
+
+📋 Facoltativo:
+✅ Modifiche implementate:
+Punteggio accumulato - Il punteggio si mantiene in memoria tra le partite
+
+
